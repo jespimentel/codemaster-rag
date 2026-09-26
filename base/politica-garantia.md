@@ -13,21 +13,6 @@ comercial adicional de 120 dias contra defeitos de fabricação, contados após
 o término da garantia legal aplicável. Essa cobertura não substitui nem reduz
 os direitos do consumidor ou a garantia oferecida pelo fabricante.
 
-## Defeitos Cobertos
-
-- **Teclados e mouses:** teclas, botões, sensores ou conexões que deixem de
-  funcionar por defeito de fabricação durante o uso conforme o manual.
-- **Webcams:** falhas de captura de imagem ou do microfone integrado decorrentes
-  de defeito do produto.
-- **Hubs USB, cabos e adaptadores:** falhas de conexão, alimentação ou transmissão
-  de dados nas condições e especificações informadas pelo fabricante.
-- **Pen drives:** falhas de reconhecimento, leitura ou gravação decorrentes de
-  defeito de fabricação. A cobertura do dispositivo não inclui recuperação de
-  arquivos; mantenha cópias de segurança dos seus dados.
-- **Cartuchos e toners:** vazamentos ou falhas de impressão comprovadamente
-  causados por defeito de fabricação, quando utilizados em impressora compatível
-  e dentro da validade indicada na embalagem.
-
 ## Limites da Garantia Adicional
 
 A cobertura adicional não inclui danos causados por quedas, contato com líquidos,

@@ -12,7 +12,6 @@
 
 - **Separação:** até 1 dia útil após confirmação do pagamento
 - **Rastreio:** enviado por e-mail e WhatsApp
-- **Frete grátis:** pedidos acima de **R$ 199,00**
 
 ## Observações
 

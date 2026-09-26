@@ -2,15 +2,17 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-
 backend = os.getenv('LLM_BACKEND')
 
-def chamar_llm(mensagens, temperatura=0.7):
+
+def chamar_llm(mensagem, temperatura=0.7):
     if backend == 'mock':
-        return 'Resposta simulada.'
+        return "Olá, teste!"
+    elif backend == 'ollama':
+        return _chamar_ollama(mensagem, temperatura)
+    else:
+        raise ValueError('Backend não suportado')
 
-    raise ValueError('Backend não suportado')
 
-
-print(chamar_llm("Olá"))
-
+def _chamar_ollama(mensagem, temperatura):
+    pass
